@@ -73,8 +73,8 @@ To build a data-driven dashboard that provides visibility into:
 
 If you’d like to collaborate, review the dashboard, or discuss data storytelling:
 
-- LinkedIn: [Your LinkedIn Profile]  
-- Email: [your.email@example.com]
+- LinkedIn: https://www.linkedin.com/in/rajeev-selvam-7a6538325/
+- Email: rajeevjammy@gmail.com
 
 ---
 
